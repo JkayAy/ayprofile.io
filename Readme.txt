@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+https://githubs.com/jkayay/ayprofile.io
 
-Template Name: DevFolio
-Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+contact: jkay.com@gmail.com
