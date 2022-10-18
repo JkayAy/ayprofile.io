@@ -1,3 +1,3 @@
-https://githubs.com/jkayay/ayprofile.io
+https://jkayay.github.io/ayprofile.io/
 
 contact: jkay.com@gmail.com
